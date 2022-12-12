@@ -648,4 +648,8 @@ canvas{
         width: 50% !important;
         text-align: left !important;
     }
+
+    .box-profile {
+        margin-left: 0px;
+    }
 }
