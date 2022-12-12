@@ -592,4 +592,60 @@ canvas{
         text-align: center;
         color: #726798;
     }
+
+    .name-header {
+        width: 100%;
+        text-align: center;
+        font-size: 18pt !important;
+    }
+
+    .hr-text {
+        display: none;
+    }
+
+    .box-text {
+        width: 100% !important;
+
+    }
+
+    .profile-image {
+        margin-left: 0px;
+    }
+
+    .content-grid-about-me {
+        margin-top: 280px;
+    }
+
+    .header-center {
+        margin-top: 15px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .inner-content-about-me {
+        width: 100% !important;
+        margin-left: 0% !important;
+        padding: 0px;
+    }
+
+    .right {
+        left: 0% !important;
+    }
+
+    .text-wrapper::after {
+        display: none;
+    }
+
+    .header-center {
+        margin-top: 50px !important;
+        margin-bottom: 30px !important;
+    }
+
+    .button-link-contact {
+        font-size: 11px;
+    }
+
+    .text-wrapper {
+        width: 50% !important;
+        text-align: left !important;
+    }
 }
